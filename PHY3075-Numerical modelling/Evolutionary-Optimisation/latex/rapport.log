@@ -1,0 +1,1205 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.3.11)  18 APR 2019 01:47
+entering extended mode
+**./rapport.tex
+(rapport.tex
+LaTeX2e <2018-12-01>
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size10.clo"
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) ("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.st
+y"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.sty"
+Package: babel 2018/11/13 3.27 The Babel package
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.def
+"
+File: switch.def 2018/11/13 3.27 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel-french\fra
+ncais.ldf"
+Language: francais 2018/09/14 v3.5c French support from the babel system
+
+
+Package francais.ldf Warning: Option `francais' for Babel is *deprecated*,
+(francais.ldf)                it might be removed sooner or later. Please
+(francais.ldf)                use `french' instead; reported on input line 31.
+
+
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel-french\fre
+nch.ldf"
+Language: french 2018/09/14 v3.5c French support from the babel system
+
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def"
+File: babel.def 2018/11/13 3.27 Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.d
+ef")
+\bbl@dirlevel=\count89
+)
+\l@acadian = a dialect from \language\l@french 
+\FB@nonchar=\count90
+Package babel Info: Making : an active character on input line 414.
+Package babel Info: Making ; an active character on input line 415.
+Package babel Info: Making ! an active character on input line 416.
+Package babel Info: Making ? an active character on input line 417.
+\FBguill@level=\count91
+\FBold@everypar=\toks16
+\FB@Mht=\dimen104
+\mc@charclass=\count92
+\mc@charfam=\count93
+\mc@charslot=\count94
+\std@mcc=\count95
+\dec@mcc=\count96
+\c@FBcaption@count=\count97
+\listindentFB=\dimen105
+\descindentFB=\dimen106
+\labelindentFB=\dimen107
+\labelwidthFB=\dimen108
+\leftmarginFB=\dimen109
+\parindentFFN=\dimen110
+\FBfnindent=\dimen111
+)))
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/carlisle\scalefnt.
+sty")
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.st
+y"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) ("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\lmodern.sty"
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.
+sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.s
+ty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifvtex.
+sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\ifxetex.
+sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count98
+\Gm@cntv=\count99
+\c@Gm@tempcnt=\count100
+\Gm@bindingoffset=\dimen112
+\Gm@wd@mp=\dimen113
+\Gm@odd@mp=\dimen114
+\Gm@even@mp=\dimen115
+\Gm@layoutwidth=\dimen116
+\Gm@layoutheight=\dimen117
+\Gm@layouthoffset=\dimen118
+\Gm@layoutvoffset=\dimen119
+\Gm@dimlist=\toks18
+
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.
+cfg"))
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\fancyhdr.
+sty"
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip43
+\f@nch@O@elh=\skip44
+\f@nch@O@erh=\skip45
+\f@nch@O@olh=\skip46
+\f@nch@O@orh=\skip47
+\f@nch@O@elf=\skip48
+\f@nch@O@erf=\skip49
+\f@nch@O@olf=\skip50
+\f@nch@O@orf=\skip51
+)
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.st
+y"
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.st
+y"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty
+"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen120
+))
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty
+"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen121
+)
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty
+"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count101
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count102
+\leftroot@=\count103
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count104
+\DOTSCASE@=\count105
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen122
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count106
+\c@MaxMatrixCols=\count107
+\dotsspace@=\muskip10
+\c@parentequation=\count108
+\dspbrk@lvl=\count109
+\tag@help=\toks20
+\row@=\count110
+\column@=\count111
+\maxfields@=\count112
+\andhelp@=\toks21
+\eqnshift@=\dimen123
+\alignsep@=\dimen124
+\tagshift@=\dimen125
+\tagwidth@=\dimen126
+\totwidth@=\dimen127
+\lineht@=\dimen128
+\@envbody=\toks22
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cancel\cancel.sty"
+Package: cancel 2013/04/12 v2.2 Cancel math terms
+) ("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amscls\amsthm.st
+y"
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks24
+\thm@bodyfont=\toks25
+\thm@headfont=\toks26
+\thm@notefont=\toks27
+\thm@headpunct=\toks28
+\thm@preskip=\skip55
+\thm@postskip=\skip56
+\thm@headsep=\skip57
+\dth@everypar=\toks29
+)
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.
+sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+) ("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\bm.sty"
+Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 207.
+)
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb.s
+ty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/was\gensymb.sty"
+Package: gensymb 2003/07/02 v1.0 (WaS)
+)
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/jknappen\mathrsfs.
+sty"
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup9
+)
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/physics\physics.st
+y"
+Package: physics 
+
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/xparse\
+xparse.sty"
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3.sty
+"
+Package: expl3 2019-03-05 L3 programming layer (loader) 
+
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3-cod
+e.tex"
+Package: expl3 2019-03-05 L3 programming layer (code)
+\c_max_int=\count113
+\l_tmpa_int=\count114
+\l_tmpb_int=\count115
+\g_tmpa_int=\count116
+\g_tmpb_int=\count117
+\g__kernel_prg_map_int=\count118
+\c_log_iow=\count119
+\l_iow_line_count_int=\count120
+\l__iow_line_target_int=\count121
+\l__iow_one_indent_int=\count122
+\l__iow_indent_int=\count123
+\c_zero_dim=\dimen129
+\c_max_dim=\dimen130
+\l_tmpa_dim=\dimen131
+\l_tmpb_dim=\dimen132
+\g_tmpa_dim=\dimen133
+\g_tmpb_dim=\dimen134
+\c_zero_skip=\skip58
+\c_max_skip=\skip59
+\l_tmpa_skip=\skip60
+\l_tmpb_skip=\skip61
+\g_tmpa_skip=\skip62
+\g_tmpb_skip=\skip63
+\c_zero_muskip=\muskip11
+\c_max_muskip=\muskip12
+\l_tmpa_muskip=\muskip13
+\l_tmpb_muskip=\muskip14
+\g_tmpa_muskip=\muskip15
+\g_tmpb_muskip=\muskip16
+\l_keys_choice_int=\count124
+\l__intarray_loop_int=\count125
+\c__intarray_sp_dim=\dimen135
+\g__intarray_font_int=\count126
+\c__fp_leading_shift_int=\count127
+\c__fp_middle_shift_int=\count128
+\c__fp_trailing_shift_int=\count129
+\c__fp_big_leading_shift_int=\count130
+\c__fp_big_middle_shift_int=\count131
+\c__fp_big_trailing_shift_int=\count132
+\c__fp_Bigg_leading_shift_int=\count133
+\c__fp_Bigg_middle_shift_int=\count134
+\c__fp_Bigg_trailing_shift_int=\count135
+\c__kernel_randint_max_int=\count136
+\g__fp_array_int=\count137
+\l__fp_array_loop_int=\count138
+\l__sort_length_int=\count139
+\l__sort_min_int=\count140
+\l__sort_top_int=\count141
+\l__sort_max_int=\count142
+\l__sort_true_max_int=\count143
+\l__sort_block_int=\count144
+\l__sort_begin_int=\count145
+\l__sort_end_int=\count146
+\l__sort_A_int=\count147
+\l__sort_B_int=\count148
+\l__sort_C_int=\count149
+\l__tl_analysis_normal_int=\count150
+\l__tl_analysis_index_int=\count151
+\l__tl_analysis_nesting_int=\count152
+\l__tl_analysis_type_int=\count153
+\l__regex_internal_a_int=\count154
+\l__regex_internal_b_int=\count155
+\l__regex_internal_c_int=\count156
+\l__regex_balance_int=\count157
+\l__regex_group_level_int=\count158
+\l__regex_mode_int=\count159
+\c__regex_cs_in_class_mode_int=\count160
+\c__regex_cs_mode_int=\count161
+\l__regex_catcodes_int=\count162
+\l__regex_default_catcodes_int=\count163
+\c__regex_catcode_D_int=\count164
+\c__regex_catcode_S_int=\count165
+\c__regex_catcode_L_int=\count166
+\c__regex_catcode_O_int=\count167
+\c__regex_catcode_A_int=\count168
+\c__regex_all_catcodes_int=\count169
+\l__regex_show_lines_int=\count170
+\l__regex_min_state_int=\count171
+\l__regex_max_state_int=\count172
+\l__regex_left_state_int=\count173
+\l__regex_right_state_int=\count174
+\l__regex_capturing_group_int=\count175
+\l__regex_min_pos_int=\count176
+\l__regex_max_pos_int=\count177
+\l__regex_curr_pos_int=\count178
+\l__regex_start_pos_int=\count179
+\l__regex_success_pos_int=\count180
+\l__regex_curr_char_int=\count181
+\l__regex_curr_catcode_int=\count182
+\l__regex_last_char_int=\count183
+\l__regex_case_changed_char_int=\count184
+\l__regex_curr_state_int=\count185
+\l__regex_step_int=\count186
+\l__regex_min_active_int=\count187
+\l__regex_max_active_int=\count188
+\l__regex_replacement_csnames_int=\count189
+\l__regex_match_count_int=\count190
+\l__regex_min_submatch_int=\count191
+\l__regex_submatch_int=\count192
+\l__regex_zeroth_submatch_int=\count193
+\g__regex_trace_regex_int=\count194
+\c_empty_box=\box29
+\l_tmpa_box=\box30
+\l_tmpb_box=\box31
+\g_tmpa_box=\box32
+\g_tmpb_box=\box33
+\l__box_top_dim=\dimen136
+\l__box_bottom_dim=\dimen137
+\l__box_left_dim=\dimen138
+\l__box_right_dim=\dimen139
+\l__box_top_new_dim=\dimen140
+\l__box_bottom_new_dim=\dimen141
+\l__box_left_new_dim=\dimen142
+\l__box_right_new_dim=\dimen143
+\l__box_internal_box=\box34
+\l__coffin_internal_box=\box35
+\l__coffin_internal_dim=\dimen144
+\l__coffin_offset_x_dim=\dimen145
+\l__coffin_offset_y_dim=\dimen146
+\l__coffin_x_dim=\dimen147
+\l__coffin_y_dim=\dimen148
+\l__coffin_x_prime_dim=\dimen149
+\l__coffin_y_prime_dim=\dimen150
+\c_empty_coffin=\box36
+\l__coffin_aligned_coffin=\box37
+\l__coffin_aligned_internal_coffin=\box38
+\l_tmpa_coffin=\box39
+\l_tmpb_coffin=\box40
+\g_tmpa_coffin=\box41
+\g_tmpb_coffin=\box42
+\l__coffin_bounding_shift_dim=\dimen151
+\l__coffin_left_corner_dim=\dimen152
+\l__coffin_right_corner_dim=\dimen153
+\l__coffin_bottom_corner_dim=\dimen154
+\l__coffin_top_corner_dim=\dimen155
+\l__coffin_scaled_total_height_dim=\dimen156
+\l__coffin_scaled_width_dim=\dimen157
+\c__coffin_empty_coffin=\box43
+\l__coffin_display_coffin=\box44
+\l__coffin_display_coord_coffin=\box45
+\l__coffin_display_pole_coffin=\box46
+\l__coffin_display_offset_dim=\dimen158
+\l__coffin_display_x_dim=\dimen159
+\l__coffin_display_y_dim=\dimen160
+\g__file_internal_ior=\read1
+\l__seq_internal_a_int=\count195
+\l__seq_internal_b_int=\count196
+\c__deprecation_minus_one=\count197
+)
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\l3pdfmode
+.def"
+File: l3pdfmode.def 2019-03-05 v L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count198
+))
+Package: xparse 2019-03-05 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count199
+\g__xparse_grabber_int=\count266
+\l__xparse_m_args_int=\count267
+\l__xparse_v_nesting_int=\count268
+))
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/units\nicefrac.sty
+"
+Package: nicefrac 1998/08/04 v0.9b Nice fractions
+\L@UnitsRaiseDisplaystyle=\skip64
+\L@UnitsRaiseTextstyle=\skip65
+\L@UnitsRaiseScriptstyle=\skip66
+ ("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+))
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pgff
+or.sty"
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pgfr
+cs.sty"
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
+futil-common.tex"
+\pgfutil@everybye=\toks30
+\pgfutil@tempdima=\dimen161
+\pgfutil@tempdimb=\dimen162
+
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
+futil-common-lists.tex"))
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
+futil-latex.def"
+\pgfutil@abb=\box47
+
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ms\everyshi.sty"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
+frcs.code.tex"
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf\pgf.revision
+.tex")
+Package: pgfrcs 2019/02/02 v3.1.1 (3.1.1)
+))
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pgfk
+eys.sty"
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
+fkeys.code.tex"
+\pgfkeys@pathtoks=\toks31
+\pgfkeys@temptoks=\toks32
+
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
+fkeysfiltered.code.tex"
+\pgfkeys@tmptoks=\toks33
+)))
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/math\pgfmath.s
+ty"
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+.code.tex"
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+calc.code.tex"
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+util.code.tex"
+\pgf@x=\dimen163
+\pgf@xa=\dimen164
+\pgf@xb=\dimen165
+\pgf@xc=\dimen166
+\pgf@y=\dimen167
+\pgf@ya=\dimen168
+\pgf@yb=\dimen169
+\pgf@yc=\dimen170
+\c@pgf@counta=\count269
+\c@pgf@countb=\count270
+\c@pgf@countc=\count271
+\c@pgf@countd=\count272
+)
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+parser.code.tex"
+\pgfmath@dimen=\dimen171
+\pgfmath@count=\count273
+\pgfmath@box=\box48
+\pgfmath@toks=\toks34
+\pgfmath@stack@operand=\toks35
+\pgfmath@stack@operation=\toks36
+)
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+functions.code.tex"
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+functions.basic.code.tex")
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+functions.trigonometric.code.tex")
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+functions.random.code.tex")
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+functions.comparison.code.tex")
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+functions.base.code.tex")
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+functions.round.code.tex")
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+functions.misc.code.tex")
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+functions.integerarithmetics.code.tex")))
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+float.code.tex"
+\c@pgfmathroundto@lastzeros=\count274
+)))
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
+ffor.code.tex"
+Package: pgffor 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+.code.tex")
+\pgffor@iter=\dimen172
+\pgffor@skip=\dimen173
+\pgffor@stack=\toks37
+\pgffor@toks=\toks38
+))
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.
+sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.
+sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graph
+ics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdfte
+x.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen174
+\Gin@req@width=\dimen175
+)
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/wrapfig\wrapfig.st
+y"
+\wrapoverhang=\dimen176
+\WF@size=\dimen177
+\c@WF@wrappedlines=\count275
+\WF@box=\box49
+\WF@everypar=\toks39
+Package: wrapfig 2003/01/31  v 3.6
+) ("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count276
+\float@exts=\toks40
+\float@box=\box50
+\@float@everytoks=\toks41
+\@floatcapt=\box51
+)
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption.st
+y"
+Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
+
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption3.s
+ty"
+Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen178
+\captionmargin@=\dimen179
+\captionwidth=\dimen180
+\caption@tempdima=\dimen181
+\caption@indent=\dimen182
+\caption@parindent=\dimen183
+\caption@hangindent=\dimen184
+)
+\c@caption@flags=\count277
+\c@ContinuedFloat=\count278
+Package caption Info: float package is loaded.
+Package caption Info: wrapfig package is loaded.
+)
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\subcaption
+.sty"
+Package: subcaption 2018/05/01 v1.1-162 Sub-captions (AR)
+\c@subfigure=\count279
+\c@subtable=\count280
+)
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/enumitem\enumitem.
+sty"
+Package: enumitem 2019/02/04 v3.8 Customized lists
+\labelindent=\skip67
+\enit@outerparindent=\dimen185
+\enit@toks=\toks42
+\enit@inbox=\box52
+\enit@count@id=\count281
+\enitdp@description=\count282
+)
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/sectsty\sectsty.st
+y"
+Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
+les
+)
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\multirow.
+sty"
+Package: multirow 2019/01/01 v2.4 Span multiple rows of a table
+\multirow@colwidth=\skip68
+\multirow@cntb=\count283
+\multirow@dima=\skip69
+\bigstrutjot=\dimen186
+)
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mathtools\mathtool
+s.sty"
+Package: mathtools 2018/01/08 v1.21 mathematical typesetting tools
+
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.sty"
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count284
+\calc@Bcount=\count285
+\calc@Adimen=\dimen187
+\calc@Bdimen=\dimen188
+\calc@Askip=\skip70
+\calc@Bskip=\skip71
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count286
+\calc@Cskip=\skip72
+)
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mathtools\mhsetup.
+sty"
+Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
+\g_MT_multlinerow_int=\count287
+\l_MT_multwidth_dim=\dimen189
+\origjot=\skip73
+\l_MT_shortvdotswithinadjustabove_dim=\dimen190
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen191
+\l_MT_above_intertext_sep=\dimen192
+\l_MT_below_intertext_sep=\dimen193
+\l_MT_above_shortintertext_sep=\dimen194
+\l_MT_below_shortintertext_sep=\dimen195
+) (rapport.aux
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `sub@key' multiply defined.
+
+)
+\openout1 = `rapport.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 47.
+ ("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\ot1lmr.fd"
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Info: Redefining \degres on input line 47.
+LaTeX Info: Redefining \dots on input line 47.
+Package french.ldf Info: Setting StandardItemizeEnv=true for
+(french.ldf)             compatibility with enumitem package,
+(french.ldf)             reported on input line 47.
+Package french.ldf Info: Setting StandardEnumerateEnv=true for
+(french.ldf)             compatibility with enumitem package,
+(french.ldf)             reported on input line 47.
+LaTeX Info: Redefining \up on input line 47.
+
+
+Package french.ldf Warning: OT1 encoding should not be used for French.
+(french.ldf)                Add \usepackage[T1]{fontenc} to the preamble
+(french.ldf)                of your document; reported on input line 47.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 426.79135pt, 85.35826pt)
+* v-part:(T,H,B)=(85.35826pt, 674.33032pt, 85.35826pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=426.79135pt
+* \textheight=674.33032pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-23.91173pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Info: Redefining \celsius on input line 47.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 47.
+
+
+Package gensymb Warning: Not defining \perthousand.
+
+LaTeX Info: Redefining \ohm on input line 47.
+Package gensymb Info: Using \Omega for \ohm on input line 47.
+
+Package gensymb Warning: Not defining \micro.
+
+ABD: EveryShipout initializing macros
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
+df.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count288
+\scratchdimen=\dimen196
+\scratchbox=\box53
+\nofMPsegments=\count289
+\nofMParguments=\count290
+\everyMPshowfont=\toks43
+\MPscratchCnt=\count291
+\MPscratchDim=\dimen197
+\MPnumerator=\count292
+\makeMPintoPDFobject=\count293
+\everyMPtoPDFconversion=\toks44
+)
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-
+base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infware
+rr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.st
+y"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefin
+ekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds
+.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions
+.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetke
+ys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcmd
+s.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifluate
+x.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdftexc
+mds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 56.
+
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\omllmm.fd"
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 56.
+
+
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\omslmsy.fd"
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 56.
+
+
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\omxlmex.fd"
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <17.28> on input line 56.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 56.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 56.
+LaTeX Font Info:    Try loading font information for U+msa on input line 56.
+
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 56.
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 56.
+("C:\Users\epfle\AppData\Local\Programs\MiKTeX 2.9\tex/latex/jknappen\ursfs.fd"
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+) [1
+
+{C:/Users/epfle/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 69.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 69.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+Make it at least 13.07204pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+[1] [2] [3] [4] [5]
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 292.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 292.
+
+Overfull \hbox (33.74838pt too wide) in paragraph at lines 300--311
+ [] 
+ []
+
+[6]
+<imgs/optimisation/rho_CBr/chosen.pdf, id=39, 578.16pt x 289.08pt>
+File: imgs/optimisation/rho_CBr/chosen.pdf Graphic file (type pdf)
+<use imgs/optimisation/rho_CBr/chosen.pdf>
+Package pdftex.def Info: imgs/optimisation/rho_CBr/chosen.pdf  used on input li
+ne 315.
+(pdftex.def)             Requested size: 462.52863pt x 231.2643pt.
+
+Overfull \hbox (35.73727pt too wide) in paragraph at lines 315--316
+[][] 
+ []
+
+[7 <./imgs/optimisation/rho_CBr/chosen.pdf>]
+Overfull \hbox (0.826pt too wide) in paragraph at lines 326--326
+\OT1/lmr/m/n/10 mu-ta-tions stan-dards et les mu-ta-tions non-uniformes. Une se
+ule strategie de-meure systematiquement
+ []
+
+[8]
+<imgs/diff.png, id=86, 462.528pt x 346.896pt>
+File: imgs/diff.png Graphic file (type png)
+<use imgs/diff.png>
+Package pdftex.def Info: imgs/diff.png  used on input line 336.
+(pdftex.def)             Requested size: 185.0079pt x 138.75594pt.
+<imgs/contour_diffraction.png, id=88, 462.528pt x 346.896pt>
+File: imgs/contour_diffraction.png Graphic file (type png)
+<use imgs/contour_diffraction.png>
+Package pdftex.def Info: imgs/contour_diffraction.png  used on input line 342.
+(pdftex.def)             Requested size: 185.0079pt x 138.75594pt.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9> on input line 343.
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--343
+[]\OT1/lmr/m/n/9 (b) |Probleme de dif-frac-tion 2D. Les
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--343
+\OT1/lmr/m/n/9 iso-con-tours prennent une va-leur de
+ []
+
+<imgs/validation/validation.png, id=89, 462.528pt x 346.896pt>
+File: imgs/validation/validation.png Graphic file (type png)
+<use imgs/validation/validation.png>
+Package pdftex.def Info: imgs/validation/validation.png  used on input line 354
+.
+(pdftex.def)             Requested size: 212.76546pt x 159.57408pt.
+
+Overfull \hbox (16.43858pt too wide) in paragraph at lines 354--355
+ [][] 
+ []
+
+<imgs/validation/validation_log.png, id=90, 462.528pt x 346.896pt>
+File: imgs/validation/validation_log.png Graphic file (type png)
+<use imgs/validation/validation_log.png>
+Package pdftex.def Info: imgs/validation/validation_log.png  used on input line
+ 360.
+(pdftex.def)             Requested size: 212.76546pt x 159.57408pt.
+
+Overfull \hbox (16.43858pt too wide) in paragraph at lines 360--361
+ [][] 
+ []
+
+<imgs/validation/evolve0.png, id=91, 462.528pt x 346.896pt>
+File: imgs/validation/evolve0.png Graphic file (type png)
+<use imgs/validation/evolve0.png>
+Package pdftex.def Info: imgs/validation/evolve0.png  used on input line 375.
+(pdftex.def)             Requested size: 157.25743pt x 117.94307pt.
+
+Overfull \hbox (20.68108pt too wide) in paragraph at lines 375--375
+ [][] 
+ []
+
+<imgs/validation/evolve1.png, id=92, 462.528pt x 346.896pt>
+File: imgs/validation/evolve1.png Graphic file (type png)
+<use imgs/validation/evolve1.png>
+Package pdftex.def Info: imgs/validation/evolve1.png  used on input line 375.
+(pdftex.def)             Requested size: 157.25743pt x 117.94307pt.
+
+Overfull \hbox (20.68108pt too wide) in paragraph at lines 375--375
+ [][] 
+ []
+
+<imgs/validation/evolve2.png, id=93, 462.528pt x 346.896pt>
+File: imgs/validation/evolve2.png Graphic file (type png)
+<use imgs/validation/evolve2.png>
+Package pdftex.def Info: imgs/validation/evolve2.png  used on input line 375.
+(pdftex.def)             Requested size: 157.25743pt x 117.94307pt.
+
+Overfull \hbox (20.68108pt too wide) in paragraph at lines 375--375
+ [][] 
+ []
+
+<imgs/validation/evolve3.png, id=94, 462.528pt x 346.896pt>
+File: imgs/validation/evolve3.png Graphic file (type png)
+<use imgs/validation/evolve3.png>
+Package pdftex.def Info: imgs/validation/evolve3.png  used on input line 375.
+(pdftex.def)             Requested size: 157.25743pt x 117.94307pt.
+
+Overfull \hbox (20.68108pt too wide) in paragraph at lines 375--375
+ [][] 
+ []
+
+<imgs/validation/evolve4.png, id=95, 462.528pt x 346.896pt>
+File: imgs/validation/evolve4.png Graphic file (type png)
+<use imgs/validation/evolve4.png>
+Package pdftex.def Info: imgs/validation/evolve4.png  used on input line 375.
+(pdftex.def)             Requested size: 157.25743pt x 117.94307pt.
+
+Overfull \hbox (20.68108pt too wide) in paragraph at lines 375--375
+ [][] 
+ []
+
+<imgs/validation/evolve5.png, id=96, 462.528pt x 346.896pt>
+File: imgs/validation/evolve5.png Graphic file (type png)
+<use imgs/validation/evolve5.png>
+Package pdftex.def Info: imgs/validation/evolve5.png  used on input line 375.
+(pdftex.def)             Requested size: 157.25743pt x 117.94307pt.
+
+Overfull \hbox (20.68108pt too wide) in paragraph at lines 375--375
+ [][] 
+ []
+
+<imgs/validation/evolve6.png, id=97, 462.528pt x 346.896pt>
+File: imgs/validation/evolve6.png Graphic file (type png)
+<use imgs/validation/evolve6.png>
+Package pdftex.def Info: imgs/validation/evolve6.png  used on input line 375.
+(pdftex.def)             Requested size: 157.25743pt x 117.94307pt.
+
+Overfull \hbox (20.68108pt too wide) in paragraph at lines 375--375
+ [][] 
+ []
+
+<imgs/validation/evolve7.png, id=98, 462.528pt x 346.896pt>
+File: imgs/validation/evolve7.png Graphic file (type png)
+<use imgs/validation/evolve7.png>
+Package pdftex.def Info: imgs/validation/evolve7.png  used on input line 375.
+(pdftex.def)             Requested size: 157.25743pt x 117.94307pt.
+
+Overfull \hbox (20.68108pt too wide) in paragraph at lines 375--375
+ [][] 
+ []
+
+<imgs/validation/evolve8.png, id=99, 462.528pt x 346.896pt>
+File: imgs/validation/evolve8.png Graphic file (type png)
+<use imgs/validation/evolve8.png>
+Package pdftex.def Info: imgs/validation/evolve8.png  used on input line 375.
+(pdftex.def)             Requested size: 157.25743pt x 117.94307pt.
+
+Overfull \hbox (20.68108pt too wide) in paragraph at lines 375--375
+ [][] 
+ []
+
+[9 <./imgs/diff.png> <./imgs/contour_diffraction.png> <./imgs/validation/valida
+tion.png> <./imgs/validation/validation_log.png>]
+<imgs/nbootis/100.pdf, id=109, 578.16pt x 289.08pt>
+File: imgs/nbootis/100.pdf Graphic file (type pdf)
+<use imgs/nbootis/100.pdf>
+Package pdftex.def Info: imgs/nbootis/100.pdf  used on input line 386.
+(pdftex.def)             Requested size: 404.70924pt x 202.35461pt.
+
+Overfull \hbox (20.59964pt too wide) in paragraph at lines 386--387
+ [][] 
+ []
+
+<imgs/nbootis/250.pdf, id=110, 578.16pt x 289.08pt>
+File: imgs/nbootis/250.pdf Graphic file (type pdf)
+<use imgs/nbootis/250.pdf>
+Package pdftex.def Info: imgs/nbootis/250.pdf  used on input line 391.
+(pdftex.def)             Requested size: 404.70924pt x 202.35461pt.
+
+Overfull \hbox (20.59964pt too wide) in paragraph at lines 391--392
+ [][] 
+ []
+
+<imgs/nbootis/500.pdf, id=111, 578.16pt x 289.08pt>
+File: imgs/nbootis/500.pdf Graphic file (type pdf)
+<use imgs/nbootis/500.pdf>
+Package pdftex.def Info: imgs/nbootis/500.pdf  used on input line 396.
+(pdftex.def)             Requested size: 404.70924pt x 202.35461pt.
+
+Overfull \hbox (20.59964pt too wide) in paragraph at lines 396--397
+ [][] 
+ []
+
+[10 <./imgs/validation/evolve0.png> <./imgs/validation/evolve1.png> <./imgs/val
+idation/evolve2.png> <./imgs/validation/evolve3.png> <./imgs/validation/evolve4
+.png> <./imgs/validation/evolve5.png> <./imgs/validation/evolve6.png> <./imgs/v
+alidation/evolve7.png> <./imgs/validation/evolve8.png>]
+Overfull \vbox (19.73352pt too high) has occurred while \output is active []
+
+
+[11 <./imgs/nbootis/100.pdf> <./imgs/nbootis/250.pdf
+
+pdfTeX warning: pdflatex.exe (file ./imgs/nbootis/250.pdf): PDF inclusion: mult
+iple pdfs with page group included in a single page
+> <./imgs/nbootis/500.pdf
+
+pdfTeX warning: pdflatex.exe (file ./imgs/nbootis/500.pdf): PDF inclusion: mult
+iple pdfs with page group included in a single page
+>]
+<imgs/parameters/N/error_n2.pdf, id=242, 462.52798pt x 346.89601pt>
+File: imgs/parameters/N/error_n2.pdf Graphic file (type pdf)
+<use imgs/parameters/N/error_n2.pdf>
+Package pdftex.def Info: imgs/parameters/N/error_n2.pdf  used on input line 411
+.
+(pdftex.def)             Requested size: 208.13567pt x 156.10176pt.
+
+Overfull \hbox (16.08087pt too wide) in paragraph at lines 411--411
+ [][] 
+ []
+
+<imgs/parameters/p_m/error_p_m3.pdf, id=243, 462.52798pt x 346.89601pt>
+File: imgs/parameters/p_m/error_p_m3.pdf Graphic file (type pdf)
+<use imgs/parameters/p_m/error_p_m3.pdf>
+Package pdftex.def Info: imgs/parameters/p_m/error_p_m3.pdf  used on input line
+ 411.
+(pdftex.def)             Requested size: 208.13567pt x 156.10176pt.
+
+Overfull \hbox (16.08087pt too wide) in paragraph at lines 411--411
+ [][] 
+ []
+
+<imgs/parameters/p_s/error_p_s2.pdf, id=244, 462.52798pt x 346.89601pt>
+File: imgs/parameters/p_s/error_p_s2.pdf Graphic file (type pdf)
+<use imgs/parameters/p_s/error_p_s2.pdf>
+Package pdftex.def Info: imgs/parameters/p_s/error_p_s2.pdf  used on input line
+ 411.
+(pdftex.def)             Requested size: 208.13567pt x 156.10176pt.
+
+Overfull \hbox (16.08087pt too wide) in paragraph at lines 411--411
+ [][] 
+ []
+
+<imgs/parameters/p_c/error_p_c2.pdf, id=245, 462.52798pt x 346.89601pt>
+File: imgs/parameters/p_c/error_p_c2.pdf Graphic file (type pdf)
+<use imgs/parameters/p_c/error_p_c2.pdf>
+Package pdftex.def Info: imgs/parameters/p_c/error_p_c2.pdf  used on input line
+ 411.
+(pdftex.def)             Requested size: 208.13567pt x 156.10176pt.
+
+Overfull \hbox (16.08087pt too wide) in paragraph at lines 411--411
+ [][] 
+ []
+
+
+Overfull \hbox (39.37457pt too wide) in paragraph at lines 428--429
+\OT1/lmr/m/n/10 http ://www.neurodimension.com/genetic/documentation/OptiGenLib
+raryDotNet/GeneticServer/Non-
+ []
+
+[12 <./imgs/parameters/N/error_n2.pdf> <./imgs/parameters/p_m/error_p_m3.pdf
+
+pdfTeX warning: pdflatex.exe (file ./imgs/parameters/p_m/error_p_m3.pdf): PDF i
+nclusion: multiple pdfs with page group included in a single page
+> <./imgs/parameters/p_s/error_p_s2.pdf
+
+pdfTeX warning: pdflatex.exe (file ./imgs/parameters/p_s/error_p_s2.pdf): PDF i
+nclusion: multiple pdfs with page group included in a single page
+> <./imgs/parameters/p_c/error_p_c2.pdf
+
+pdfTeX warning: pdflatex.exe (file ./imgs/parameters/p_c/error_p_c2.pdf): PDF i
+nclusion: multiple pdfs with page group included in a single page
+>] (rapport.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 22279 strings out of 492946
+ 412170 string characters out of 3126266
+ 443417 words of memory out of 3000000
+ 25853 multiletter control sequences out of 15000+200000
+ 613149 words of font info for 103 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 47i,12n,65p,1746b,512s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/epfle/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathi
+t.enc}{C:/Users/epfle/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-r
+m.enc}{C:/Users/epfle/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-m
+athsy.enc}{C:/Users/epfle/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/
+lm-mathex.enc}{C:/Users/epfle/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips
+/lm/lm-rmsc.enc}<C:/Users/epfle/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
+ublic/lm/lmbx10.pfb><C:/Users/epfle/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
+e1/public/lm/lmbx12.pfb><C:/Users/epfle/AppData/Local/Programs/MiKTeX 2.9/fonts
+/type1/public/lm/lmcsc10.pfb><C:/Users/epfle/AppData/Local/Programs/MiKTeX 2.9/
+fonts/type1/public/lm/lmex10.pfb><C:/Users/epfle/AppData/Local/Programs/MiKTeX 
+2.9/fonts/type1/public/lm/lmmi10.pfb><C:/Users/epfle/AppData/Local/Programs/MiK
+TeX 2.9/fonts/type1/public/lm/lmmi12.pfb><C:/Users/epfle/AppData/Local/Programs
+/MiKTeX 2.9/fonts/type1/public/lm/lmmi5.pfb><C:/Users/epfle/AppData/Local/Progr
+ams/MiKTeX 2.9/fonts/type1/public/lm/lmmi7.pfb><C:/Users/epfle/AppData/Local/Pr
+ograms/MiKTeX 2.9/fonts/type1/public/lm/lmmi9.pfb><C:/Users/epfle/AppData/Local
+/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Users/epfle/AppData/Lo
+cal/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/Users/epfle/AppData
+/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr5.pfb><C:/Users/epfle/AppDa
+ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr7.pfb><C:/Users/epfle/App
+Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr9.pfb><C:/Users/epfle/A
+ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><C:/Users/epf
+le/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Users
+/epfle/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsy7.pfb>
+Output written on rapport.pdf (13 pages, 1190528 bytes).
+PDF statistics:
+ 431 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 106 words of extra memory for PDF output out of 10000 (max. 10000000)
+
